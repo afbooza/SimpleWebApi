@@ -1,0 +1,14 @@
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\bin\Debug\netcoreapp2.1\SimpleWebApi.deps.json
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\bin\Debug\netcoreapp2.1\SimpleWebApi.runtimeconfig.json
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\bin\Debug\netcoreapp2.1\SimpleWebApi.runtimeconfig.dev.json
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\bin\Debug\netcoreapp2.1\SimpleWebApi.dll
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\bin\Debug\netcoreapp2.1\SimpleWebApi.pdb
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.csprojAssemblyReference.cache
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.csproj.CoreCompileInputs.cache
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.RazorAssemblyInfo.cache
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.RazorAssemblyInfo.cs
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.AssemblyInfoInputs.cache
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.AssemblyInfo.cs
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.dll
+C:\Users\xbblfdq\Source\Repos\SimpleWebApi\SimpleWebApi\obj\Debug\netcoreapp2.1\SimpleWebApi.pdb
